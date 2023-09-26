@@ -9,6 +9,6 @@ This course teaches you how to build Vertex AI AutoML models without writing a s
 <p align="center"><img src="https://github.com/RIT-MESH/Machine-Learning-on-Google-Cloud-Specialization/blob/main/certificate.png?raw=true"alt="Sublime's custom image"/>
  </p>
 
-  ## For mre detail about certificate [Click here](https://www.coursera.org/account/accomplishments/specialization/PBFWJVQVC9PF) 
+  ## For more detail about certificate [Click here](https://www.coursera.org/account/accomplishments/specialization/PBFWJVQVC9PF) 
 
 
